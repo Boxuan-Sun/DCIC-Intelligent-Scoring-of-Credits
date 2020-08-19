@@ -4,7 +4,7 @@
 
 比赛链接：https://www.datafountain.cn/competitions/337/details
 
-参赛人：Chain、我爱写代码、我真不会造轮子、憨子哥、Iron_man
+参赛人：Chain、我、我真不会造轮子、憨子哥、Iron_man
 
 这次比赛很遗憾我们未能进入最终的总决赛，但能完整地实现已经很满意了（我没有做过比赛），希望能吸取这次的经验教训，继续学习，在以后的比赛中能有更好的表现。
 
